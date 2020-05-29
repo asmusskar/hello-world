@@ -16,7 +16,7 @@ affiliations:
  - name: Department of Civil Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark
    index: 1
 date: 28 May 2020
-bibliography: paper.bib
+bibliography: bib_test2.bib
 ---
 
 # Summary
