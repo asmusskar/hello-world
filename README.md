@@ -3,4 +3,4 @@ this is a test
 
 im a GitHub beginner, but would like to get started sharing my `matlab.m` codes 
 
-\begin{equation} \text{Find}~\lambda^{\rm opt} \in \arg\max_{\lambda\in {\mathbb R}} {\rm F}(\lambda),\quad \text{where}~ {\rm F}(\lambda) \triangleq \min{f_1(\lambda),f_2(\lambda),\ldots,f_n(\lambda)}. \label{eq:opt} \end{equation} Each univariate scalar-valued function $\lambda\mapsto f_\alpha(\lambda)$
+The load moves in a straight line from $x=-x_0$ (Start) to $x=x_0$ (End). The travel path is decomposed into $N$ intervals $(i=1,…,N)$, each $\Delta x$ long. The point of response evaluation is indicated in the Figure; this point is located near the middle of the travel path (i.e., x -coordinate of zero), at y -coordinate $y_0$ and depth $z_0$  below the surface. 
