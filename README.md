@@ -1,17 +1,4 @@
 # hello-world
 
-<html>
-<head>
-<script> type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-</head>
-<body>
-Here are my formulas
-<div lang="latex">1+sin(x)^2+3</div>
-<ul>
-<li lang="latex">x^2+y^2+z^2</li>
-<li>a^2+b^2</li>
-</ul>
-</body>
-</html>
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=D(t)=D_\infty&plus;\frac{D_0-D_\infty}{1&plus;(t/\tau_D)^{n_D}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D(t)=D_\infty&plus;\frac{D_0-D_\infty}{1&plus;(t/\tau_D)^{n_D}}" title="D(t)=D_\infty+\frac{D_0-D_\infty}{1+(t/\tau_D)^{n_D}}" /></a>
 
