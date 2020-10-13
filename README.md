@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
+<script> type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
 </head>
 <body>
 Here are my formulas
